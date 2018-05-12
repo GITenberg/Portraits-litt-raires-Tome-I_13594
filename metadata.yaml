@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5145
     wikipedia: http://en.wikipedia.org/wiki/Charles_Augustin_Sainte-Beuve
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13594#Portraits-litt-raires-Tome-I
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2004-10-04'
 gutenberg_type: Text
