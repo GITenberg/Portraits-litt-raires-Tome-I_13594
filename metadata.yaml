@@ -1,0 +1,39 @@
+_repo: Portraits-litt-raires-Tome-I_13594
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sainte-Beuve, Charles Augustin
+    aliases:
+    - Delorme, Joseph
+    - Sainte-Beuve, C.-A. (Charles Augustin)
+    birthdate: 1804
+    deathdate: 1869
+    gutenberg_agent_id: '5145'
+    url: http://www.gutenberg.org/2009/agents/5145
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Augustin_Sainte-Beuve
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2004-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13594'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, French'
+- !lcsh 'French literature -- History and criticism'
+- !lcc 'PQ'
+tableOfContents: Préface -- Boileau -- La Fontaine de Boileau, épître -- Pierre Corneille
+  -- La Fontaine -- Racine -- La reprise de Bérénice -- Jean-Baptiste Rousseau --
+  Le Brun -- Mathurin Regnier et André Chénier -- Documents inédits sur André Chénier
+  -- George Farcy -- Diderot -- L'abbé Prévost -- M. Andrieux -- M. Jouffroy -- M.
+  Ampère -- Du Génie critique et de Bayle -- La Bruyère -- Millevoye -- Des Soirées
+  littéraires -- Charles Nodier -- Charles Nodier après les funérailles -- Appendice
+  sur La Fontaine.
+title: Portraits littéraires, Tome I
+url: http://www.gutenberg.org/ebooks/13594
